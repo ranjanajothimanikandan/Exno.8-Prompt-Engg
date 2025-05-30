@@ -1,4 +1,4 @@
-## Exno.8-Prompt-Engg
+## Exno:8 Exp 8: Exploration of Prompting Techniques for Audio Generation
 ## Date:
 ## Register no: 212222040131
 ## Aim
@@ -179,7 +179,8 @@ Add support for multi-layer prompt generation
 Introduce waveform visualization and basic editing features
 
 Explore real-time voice manipulation for voiceovers
-
+## Output:
+https://drive.google.com/file/d/13wUbKYLVIN0uWaYF_dKJN0yGhe25n-3-/view?usp=sharing
 
 ## Result: 
 The Prompt for the above process executed successfully
